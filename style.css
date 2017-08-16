@@ -65,8 +65,12 @@ nav a:hover {
   background: #3acec2;
   text-align: center;
   padding: 3.2em 0;
+  margin-bottom: 4em;
 }
 
+main {
+  padding: 1em;
+}
 /* Page Elements */
 .logo {
   width: 190px;
