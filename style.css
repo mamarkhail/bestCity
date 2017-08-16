@@ -41,11 +41,16 @@ img {
 /* Navigation  */
 .name {
   font-size: 1.25em;
+  margin: 0;
 }
-
+nav {
+  margin-top: 0.25em;
+}
 .name a,
 nav a {
   text-align: center;
+  display: block;
+  padding: 0.5em 1em;
 }
 
 nav a {
