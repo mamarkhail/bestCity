@@ -87,3 +87,20 @@ footer {
   padding: 2em 1em;
   background: #d9e4ea;
 }
+/*Page Element*/
+.logo {
+  width: 190px;
+}
+/* Media Queris*/
+@media (min-width: 48em) {
+  main,
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  header .container {
+    display: flex;
+  }
+}
+@media (min-width: 64em) {
+}
